@@ -9,3 +9,5 @@ To keep things simple, the app uses a very simple database schema that look like
 To make this app work, follow the instructions given in the official documentation regarding [how to add Firebase to your project](https://firebase.google.com/docs/android/setup). Add the JSON file in your app folder, add some dummy products and see it working.
 
 This repo is the source code of the this article: [How to read data from Cloud Firestore using get()?](https://medium.com/firebase-tips-tricks/how-to-read-data-from-cloud-firestore-using-get-bf03b6ee4953)
+
+See it also on youtube: https://youtu.be/eUEADVqM05I
